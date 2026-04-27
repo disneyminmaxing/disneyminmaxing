@@ -38,7 +38,7 @@ description: A lean Tokyo Disney Resort planning guide with separate sample itin
   <div class="grid cols-3">
     <a class="link-card" href="{{ '/plans/' | relative_url }}">
       <strong>Sample Plans</strong>
-      Separate itinerary pages, including a version that stays loyal to your original Disneyland flow.
+      Separate itinerary pages, including a suggested Disneyland route based on the core guide strategy.
       <span>See plans</span>
     </a>
     <a class="link-card" href="{{ '/parks/' | relative_url }}">
@@ -63,7 +63,7 @@ description: A lean Tokyo Disney Resort planning guide with separate sample itin
     </div>
     <div class="card accent-land">
       <h3>Get to the park early</h3>
-      <p>Waiting outside can save hours inside. The trade is almost always worth it if rides matter to your group.</p>
+      <p>Waiting outside can save hours inside. The trade is almost always worth it if rides are a top priority.</p>
     </div>
     <div class="card accent-sea">
       <h3>Use the app as soon as you scan in</h3>
