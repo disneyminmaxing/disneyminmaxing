@@ -16,7 +16,7 @@ Jekyll-powered GitHub Pages site for a Tokyo Disney Resort min-maxing guide.
 3. Under `Build and deployment`, choose `Deploy from a branch`.
 4. Select your default branch and `/ (root)`.
 5. Save. GitHub Pages will build the Jekyll site automatically.
-6. If you rename the repository, update `baseurl` in `_config.yml` to match the new repo name.
+6. If you rename the repository, update `baseurl` in `_config.yml` to match the exact repo name and casing used in the URL.
 
 ## Main files
 
