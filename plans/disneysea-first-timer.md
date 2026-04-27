@@ -30,36 +30,67 @@ description: A sample Tokyo DisneySea itinerary for first-time visitors who want
 
 <section class="section-card">
   <h2>Sample Route</h2>
-  <div class="timeline">
-    <div class="timeline-step">
-      <span class="time">Before Open</span>
-      <strong>Choose your main headline target in advance.</strong>
-      For many first-timers that means Soaring, Tower of Terror, Journey to the Center of the Earth, or a Fantasy Springs priority.
+  <div class="plan-layout">
+    <div class="plan-stage">
+      <div class="plan-stage-header">
+        <h3>Stage 1: Commit to one opening headline attraction</h3>
+        <span class="plan-kicker">Before Open</span>
+      </div>
+      <p>For a first DisneySea day, do not try to win everything at once. Choose the ride that matters most and treat the rest of the morning as support for that decision.</p>
+      <div class="ride-list">
+        <a class="ride-link" href="https://www.tokyodisneyresort.jp/en/tds/attraction/detail/219/" target="_blank" rel="noreferrer">Soaring: Fantastic Flight</a>
+        <a class="ride-link" href="https://www.tokyodisneyresort.jp/en/tds/attraction/detail/243/" target="_blank" rel="noreferrer">Tower of Terror</a>
+        <a class="ride-link" href="https://www.tokyodisneyresort.jp/en/tds/attraction/detail/223/" target="_blank" rel="noreferrer">Journey to the Center of the Earth</a>
+        <a class="ride-link" href="https://www.tokyodisneyresort.jp/en/tds/attraction/detail/255/" target="_blank" rel="noreferrer">Anna and Elsa’s Frozen Journey</a>
+      </div>
     </div>
-    <div class="timeline-step">
-      <span class="time">Open</span>
-      <strong>Go straight to the biggest priority.</strong>
-      Let your group feel the park later, not during the first decision window.
+    <div class="plan-stage">
+      <div class="plan-stage-header">
+        <h3>Stage 2: Protect your second meaningful experience</h3>
+        <span class="plan-kicker">Open</span>
+      </div>
+      <p>Once you are through the gate, use the app to secure a second anchor. The goal is not max quantity. The goal is to avoid the two lines that would shape the whole day badly.</p>
+      <div class="ride-list">
+        <a class="ride-link" href="https://www.tokyodisneyresort.jp/en/tds/attraction/detail/219/" target="_blank" rel="noreferrer">Soaring</a>
+        <a class="ride-link" href="https://www.tokyodisneyresort.jp/en/tds/attraction/detail/243/" target="_blank" rel="noreferrer">Tower of Terror</a>
+        <a class="ride-link" href="https://www.tokyodisneyresort.jp/en/tds/attraction/detail/223/" target="_blank" rel="noreferrer">Journey to the Center of the Earth</a>
+        <a class="ride-link" href="https://www.tokyodisneyresort.jp/en/tds/attraction/detail/218/" target="_blank" rel="noreferrer">Toy Story Mania!</a>
+      </div>
     </div>
-    <div class="timeline-step">
-      <span class="time">Immediately</span>
-      <strong>Use the app for your second anchor.</strong>
-      Try to protect another meaningful ride or area access while your feet are moving.
+    <div class="plan-stage">
+      <div class="plan-stage-header">
+        <h3>Stage 3: Stay in one zone long enough to enjoy it</h3>
+        <span class="plan-kicker">Mid-Morning</span>
+      </div>
+      <p>DisneySea punishes frantic crisscrossing more than Disneyland does. Work your current zone deeply before doing a long walk for the next priority.</p>
+      <div class="ride-list">
+        <a class="ride-link" href="https://www.tokyodisneyresort.jp/en/tds/attraction/detail/224/" target="_blank" rel="noreferrer">20,000 Leagues Under the Sea</a>
+        <a class="ride-link" href="https://www.tokyodisneyresort.jp/en/tds/attraction/detail/222/" target="_blank" rel="noreferrer">Indiana Jones Adventure</a>
+        <a class="ride-link" href="https://www.tokyodisneyresort.jp/en/tds/attraction/detail/242/" target="_blank" rel="noreferrer">Raging Spirits</a>
+      </div>
+      <ul class="plan-notes">
+        <li>If you start in Mysterious Island, pair <a href="https://www.tokyodisneyresort.jp/en/tds/attraction/detail/223/" target="_blank" rel="noreferrer">Journey to the Center of the Earth</a> with <a href="https://www.tokyodisneyresort.jp/en/tds/attraction/detail/224/" target="_blank" rel="noreferrer">20,000 Leagues Under the Sea</a>.</li>
+        <li>If you start in American Waterfront, keep momentum with <a href="https://www.tokyodisneyresort.jp/en/tds/attraction/detail/243/" target="_blank" rel="noreferrer">Tower of Terror</a> and <a href="https://www.tokyodisneyresort.jp/en/tds/attraction/detail/218/" target="_blank" rel="noreferrer">Toy Story Mania!</a>.</li>
+      </ul>
     </div>
-    <div class="timeline-step">
-      <span class="time">Mid-Morning</span>
-      <strong>Work one zone deeply before crossing the park again.</strong>
-      DisneySea rewards slower zone-based pacing more than Disneyland does.
+    <div class="plan-stage">
+      <div class="plan-stage-header">
+        <h3>Stage 4: Schedule lunch before the park steals your clock</h3>
+        <span class="plan-kicker">Lunch</span>
+      </div>
+      <p>Book the meal before hunger hits. DisneySea is the kind of park where atmosphere makes time disappear and suddenly every restaurant line is annoying.</p>
     </div>
-    <div class="timeline-step">
-      <span class="time">Lunch</span>
-      <strong>Book it before you need it.</strong>
-      A planned break matters more here because the park invites strolling and time slips away fast.
-    </div>
-    <div class="timeline-step">
-      <span class="time">Afternoon</span>
-      <strong>Use the saved time on scenery, snacks, and one more signature ride.</strong>
-      A first DisneySea day should still feel cinematic, not just efficient.
+    <div class="plan-stage">
+      <div class="plan-stage-header">
+        <h3>Stage 5: Finish with one signature ride and one slow moment</h3>
+        <span class="plan-kicker">Afternoon</span>
+      </div>
+      <p>The first DisneySea day should feel memorable, not just optimized. Use the afternoon for one more big attraction, then give yourself permission to linger somewhere beautiful.</p>
+      <div class="ride-list">
+        <a class="ride-link" href="https://www.tokyodisneyresort.jp/en/tds/attraction/detail/255/" target="_blank" rel="noreferrer">Anna and Elsa’s Frozen Journey</a>
+        <a class="ride-link" href="https://www.tokyodisneyresort.jp/en/tds/attraction/detail/256/" target="_blank" rel="noreferrer">Rapunzel’s Lantern Festival</a>
+        <a class="ride-link" href="https://www.tokyodisneyresort.jp/en/tds/attraction/detail/257/" target="_blank" rel="noreferrer">Peter Pan’s Never Land Adventure</a>
+      </div>
     </div>
   </div>
 </section>
