@@ -13,11 +13,12 @@
   <body>
     <div class="site-shell">
       <header class="topbar">
-        <a class="brand" href="#top">Disney Min-Maxing</a>
+        <a class="brand" href="{{ '/' | relative_url }}">Disney Min-Maxing</a>
         <nav class="topnav" aria-label="Primary">
-          <a href="#strategy">Strategy</a>
-          <a href="#parks">Parks</a>
-          <a href="#links">Links</a>
+          <a href="{{ '/' | relative_url }}">Home</a>
+          <a href="{{ '/plans/' | relative_url }}">Plans</a>
+          <a href="{{ '/parks/' | relative_url }}">Parks</a>
+          <a href="{{ '/resources/' | relative_url }}">Resources</a>
         </nav>
       </header>
 
